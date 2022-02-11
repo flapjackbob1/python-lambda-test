@@ -15,7 +15,7 @@ This project is intended to act as a boilerplate to reduce the development effor
 
 ## Deployment Steps
 
-You can deploy this template [using the console](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-console.html), or [use the AWS CLI, as detailed here](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deploy/).
+You can deploy the template `base-cfn-lambda.yml` [using the console](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-console.html), or [use the AWS CLI, as detailed here](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deploy/).
 
 ### Invoking the deployed Lambda function
 
